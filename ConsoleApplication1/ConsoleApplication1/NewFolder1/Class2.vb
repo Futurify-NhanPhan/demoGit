@@ -1,3 +1,3 @@
 ﻿Public Class Class2
-1
+5
 End Class
